@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -n 3 0x02-shell_redirections/iacta
+ls -n3 0x02-shell_redirections/iacta
