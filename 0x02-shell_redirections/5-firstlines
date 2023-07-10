@@ -1,2 +1,2 @@
-#!/iin/bash
-head /etc/passwd
+#!/bin/bash
+cat head /etc/passwd
