@@ -1,2 +1,3 @@
-#!/bin/bsah
-echo $ git config
+#!/bin/bash
+echo $ git config --global alias.ls list
+echo $ git config --global alias.rm remove
