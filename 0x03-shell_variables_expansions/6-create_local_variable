@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "\"loc_var\"
+echo $loc_var"
